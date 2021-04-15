@@ -1,1 +1,3 @@
-# confighq
+# configHQ
+
+Repository for configHQ
