@@ -1,3 +1,4 @@
 # configHQ
 
-Repository for configHQ
+Repository for the configHQ project
+ 
